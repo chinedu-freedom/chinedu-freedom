@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Chinedu Freedom
 
-<!--
-**chinedu-freedom/chinedu-freedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | React.js | JavaScript (ES6+) | Tailwind CSS**
 
-Here are some ideas to get you started:
+I’m a passionate Frontend Developer from Nigeria, focused on building responsive, accessible, and high-performance web applications.  
+I love transforming Figma designs into pixel-perfect user interfaces with clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 **What I Work With**
+- **Languages:** HTML, CSS, JavaScript (ES6+), TypeScript  
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS  
+- **Tools:** Git, GitHub, VS Code, React Query, React Hook Form, Zod, Postman  
+- **Backend Basics:** Node.js, Express.js, REST APIs, JWT Auth  
+
+---
+
+### 🛠️ **Featured Projects**
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🥗 **Food Ordering App** | Interactive food ordering app with dynamic cart & category filtering. | React, Tailwind, React Query |
+| 🧼 **Cleaning Service Website** | Responsive cleaning service website with reusable pricing components. | React, Tailwind |
+| 🎵 **Music Player App** | Custom audio player with progress bar, playlist, and hover effects. | HTML, Tailwind, JS |
+| 📰 **Maskunfurl (Tech Blog)** | Collaborative Next.js blog with SEO, responsiveness, and component reusability. | Next.js, Tailwind |
+
+---
+
+### 📈 **GitHub Stats**
+![Chinedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinedufreedom&show_icons=true&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinedufreedom&layout=compact&theme=react)
+
+---
+
+### 🌍 **Let’s Connect**
+💼 [LinkedIn](https://www.linkedin.com/in/chinedufreedom)  
+💬 [WhatsApp](https://wa.me/2348158051119)  
+📧 **chinedufreedom10@gmail.com**
