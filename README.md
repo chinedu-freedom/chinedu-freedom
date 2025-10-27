@@ -25,14 +25,7 @@ I love transforming Figma designs into pixel-perfect user interfaces with clean,
 
 ---
 
-### 📈 **GitHub Stats**
-![Chinedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinedufreedom&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinedufreedom&layout=compact&theme=react)
-
----
-
 ### 🌍 **Let’s Connect**
-💼 [LinkedIn](https://www.linkedin.com/in/chinedufreedom)  
+💼 [LinkedIn](https://www.linkedin.com/in/chinedu-freedom-677662353/)  
 💬 [WhatsApp](https://wa.me/2348158051119)  
 📧 **chinedufreedom10@gmail.com**
