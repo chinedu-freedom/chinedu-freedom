@@ -15,16 +15,6 @@ I love transforming Figma designs into pixel-perfect user interfaces with clean,
 
 ---
 
-### 🛠️ **Featured Projects**
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🥗 **Food Ordering App** | Interactive food ordering app with dynamic cart & category filtering. | React, Tailwind, React Query |
-| 🧼 **Cleaning Service Website** | Responsive cleaning service website with reusable pricing components. | React, Tailwind |
-| 🎵 **Music Player App** | Custom audio player with progress bar, playlist, and hover effects. | HTML, Tailwind, JS |
-| 📰 **Maskunfurl (Tech Blog)** | Collaborative Next.js blog with SEO, responsiveness, and component reusability. | Next.js, Tailwind |
-
----
-
 ### 🌍 **Let’s Connect**
 💼 [LinkedIn](https://www.linkedin.com/in/chinedu-freedom-677662353/)  
 💬 [WhatsApp](https://wa.me/2348158051119)  
