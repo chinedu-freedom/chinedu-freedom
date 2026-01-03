@@ -8,7 +8,7 @@ I love transforming Figma designs into pixel-perfect user interfaces with clean,
 ---
 
 ### 💡 **What I Work With**
-- **Languages:** HTML, CSS, JavaScript (ES6+), TypeScript  
+- **Languages:** HTML, CSS, JavaScript (ES6+)  
 - **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS  
 - **Tools:** Git, GitHub, VS Code, React Query, React Hook Form, Zod, Postman  
 - **Backend Basics:** Node.js, Express.js, REST APIs, JWT Auth  
